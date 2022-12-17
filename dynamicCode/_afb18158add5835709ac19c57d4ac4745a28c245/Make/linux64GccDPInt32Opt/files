@@ -1,0 +1,6 @@
+# dynamicCode:
+# SHA1 = afb18158add5835709ac19c57d4ac4745a28c245
+
+SOURCE += codeStreamTemplate.C
+
+LIB = $(PWD)/../platforms/$(WM_OPTIONS)/lib/libcodeStream_afb18158add5835709ac19c57d4ac4745a28c245
